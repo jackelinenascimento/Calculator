@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.61.5] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/b3e872131eab5cbba9faf9eef473a9c8/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/a724534a9b3b8da8a6a5c970c782e486/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/29b728506965e853f7d74fc0c218fe20/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/801de270b920c7301de47f2dd4da3611/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/3e3d67a3d713ae1be303bf1f7b08fc60/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/3c0317b42d8ed43a3df366f2533b73d2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/fa7765dbf82dd3677133e7e1c3db5ad4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/34530c33d2191b69dd56431dca7831aa/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/e11acaba73ed912f91be6cfdb642003c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/ca4a57e6045d0822482e0d1c67194c11/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/b5bc3951ee92a4b7f8c793b727dd9af0/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/0cf9425603e75330a5ad5e92b2ab2e20/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/7090ecec8015c641fa0bb8636a533e91/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/bc910a9afc6871ccdd445f6ac375a0c2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/67c8ee02c10f9fa89905b2befb7ebaa7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/c5bf44c6530b381bfd3fc60466939458/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/576b27b0e1bce823f4729b0d809bda3f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/0e87cdc708a7bb8d3dc7ef1471aaa2d6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/f25ade6a51b01f694acd8c9b9b71484b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/264c40e28451b78b89e8fbf26df8296c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/abcde4a4796ed30c5d87923921389203/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/3cb369d08df39fdd4ea2b1388d225c81/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/52135195378ff056b75a311e1cc308bb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/7b0b51182fc397a27b5740ff3fab2624/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/845326cbdbb08c5225e6bdd81de58a9b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/0d9a111fce67067807b41bfad15e38a1/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/098f895c42b472b638bf13d0e400837c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/b88e537db38fbff728b635d6d7a68323/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/f0ae7514e5e303002efe09664fef3397/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/6907a33223f4b91fb6983780142559bb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/0ff3e256149420cb731eb4cb85e7da9d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/6eb81be86ad8d86b05b04f6043f4960f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/0f080ee90e9d2dda7315a63ada06de54/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/2f87bb8b38ec18191a1c93355a76e215/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/cf78d419d1243e1f5951cadda2a4698d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/274a39f677321dd4c3599c986d3d282f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/119f2114d293595f5f24263d5cbf238c/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:2:3-27
+		INJECTED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:2:3-27
+		INJECTED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.5] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/b3e872131eab5cbba9faf9eef473a9c8/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/b3e872131eab5cbba9faf9eef473a9c8/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/b5bc3951ee92a4b7f8c793b727dd9af0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/b5bc3951ee92a4b7f8c793b727dd9af0/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/845326cbdbb08c5225e6bdd81de58a9b/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/845326cbdbb08c5225e6bdd81de58a9b/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/0d9a111fce67067807b41bfad15e38a1/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/0d9a111fce67067807b41bfad15e38a1/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/845326cbdbb08c5225e6bdd81de58a9b/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.calculator.MainActivity
+ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.61.5] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/b3e872131eab5cbba9faf9eef473a9c8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/b3e872131eab5cbba9faf9eef473a9c8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/a724534a9b3b8da8a6a5c970c782e486/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/a724534a9b3b8da8a6a5c970c782e486/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/29b728506965e853f7d74fc0c218fe20/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/29b728506965e853f7d74fc0c218fe20/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/801de270b920c7301de47f2dd4da3611/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/801de270b920c7301de47f2dd4da3611/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/3e3d67a3d713ae1be303bf1f7b08fc60/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/3e3d67a3d713ae1be303bf1f7b08fc60/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/3c0317b42d8ed43a3df366f2533b73d2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/3c0317b42d8ed43a3df366f2533b73d2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/fa7765dbf82dd3677133e7e1c3db5ad4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/fa7765dbf82dd3677133e7e1c3db5ad4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/34530c33d2191b69dd56431dca7831aa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/34530c33d2191b69dd56431dca7831aa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/e11acaba73ed912f91be6cfdb642003c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/e11acaba73ed912f91be6cfdb642003c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/ca4a57e6045d0822482e0d1c67194c11/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/ca4a57e6045d0822482e0d1c67194c11/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/b5bc3951ee92a4b7f8c793b727dd9af0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/b5bc3951ee92a4b7f8c793b727dd9af0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/0cf9425603e75330a5ad5e92b2ab2e20/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/0cf9425603e75330a5ad5e92b2ab2e20/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/7090ecec8015c641fa0bb8636a533e91/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/7090ecec8015c641fa0bb8636a533e91/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/bc910a9afc6871ccdd445f6ac375a0c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/bc910a9afc6871ccdd445f6ac375a0c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/67c8ee02c10f9fa89905b2befb7ebaa7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/67c8ee02c10f9fa89905b2befb7ebaa7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/c5bf44c6530b381bfd3fc60466939458/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/c5bf44c6530b381bfd3fc60466939458/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/576b27b0e1bce823f4729b0d809bda3f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/576b27b0e1bce823f4729b0d809bda3f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/0e87cdc708a7bb8d3dc7ef1471aaa2d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/0e87cdc708a7bb8d3dc7ef1471aaa2d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/f25ade6a51b01f694acd8c9b9b71484b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/f25ade6a51b01f694acd8c9b9b71484b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/264c40e28451b78b89e8fbf26df8296c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/264c40e28451b78b89e8fbf26df8296c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/abcde4a4796ed30c5d87923921389203/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/abcde4a4796ed30c5d87923921389203/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/3cb369d08df39fdd4ea2b1388d225c81/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/3cb369d08df39fdd4ea2b1388d225c81/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/52135195378ff056b75a311e1cc308bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/52135195378ff056b75a311e1cc308bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/7b0b51182fc397a27b5740ff3fab2624/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/7b0b51182fc397a27b5740ff3fab2624/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/845326cbdbb08c5225e6bdd81de58a9b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/845326cbdbb08c5225e6bdd81de58a9b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/0d9a111fce67067807b41bfad15e38a1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/0d9a111fce67067807b41bfad15e38a1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/098f895c42b472b638bf13d0e400837c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/098f895c42b472b638bf13d0e400837c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/b88e537db38fbff728b635d6d7a68323/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/b88e537db38fbff728b635d6d7a68323/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/f0ae7514e5e303002efe09664fef3397/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/f0ae7514e5e303002efe09664fef3397/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/6907a33223f4b91fb6983780142559bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/6907a33223f4b91fb6983780142559bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/0ff3e256149420cb731eb4cb85e7da9d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/0ff3e256149420cb731eb4cb85e7da9d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/6eb81be86ad8d86b05b04f6043f4960f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/6eb81be86ad8d86b05b04f6043f4960f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/0f080ee90e9d2dda7315a63ada06de54/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/0f080ee90e9d2dda7315a63ada06de54/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/2f87bb8b38ec18191a1c93355a76e215/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/2f87bb8b38ec18191a1c93355a76e215/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/cf78d419d1243e1f5951cadda2a4698d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/cf78d419d1243e1f5951cadda2a4698d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/274a39f677321dd4c3599c986d3d282f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/274a39f677321dd4c3599c986d3d282f/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/119f2114d293595f5f24263d5cbf238c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/j-do-nascimento/.gradle/caches/transforms-2/files-2.1/119f2114d293595f5f24263d5cbf238c/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/j-do-nascimento/Desktop/ReactNative/calculator/android/app/src/debug/AndroidManifest.xml:5:22-75
